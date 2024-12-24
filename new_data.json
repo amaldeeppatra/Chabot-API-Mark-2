@@ -1,0 +1,149 @@
+[
+    {
+        "input": "What is fed",
+        "output": "A group of KIIT TBI students called Federation of Entrepreneurship Development (FED) hopes to inspire those who have an entrepreneurial spirit by uniting all potential startup ideas onto a one platform. FED helps you get in touch with the greatest contacts, resources, and mentors by organising events that raise awareness of entrepreneurship."
+    },
+    {
+        "input": "What is fed admired for?",
+        "output": "We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. There is no I, only we. We exist as a team, function as a team, and execute as a team."
+    },
+    {
+        "input": "what is the FEDpreneur Show",
+        "output": "The FEDpreneur Show is our podcast series in which we host India's most successful entrepreneurs and strive to uncover their secrets to success, learning, and entertainment! Every conversation on The FEDpreneur Show offers intellectual, educational, and extreme learning opportunities to the audience. It's about a visionary entrepreneur session with a group of multi-talented and experienced business owners. It would aid our young brains to stand strong in marketing and startup endeavors with our podcasts at The FEDpreneur Show, where we host India's best success stories and aim to dig out their secrets to success, learning, and enjoyment!"
+    },
+    {
+        "input": "who all leads fed",
+        "output": "We are a tight-knit community of passionate people devoted to bringing about vibrant and awe-inspiring changes in the field of Entrepreneurship. The pillars of our crew are the Marketing group, the Creative group, the Technical group, and the Operations group. Further details are on the team page of the website."
+    },
+    {
+        "input": "how can i contact fed",
+        "output": "You may get in touch with us through the website's contact page, where you can also discover further details."
+    },
+    {
+        "input": "What is fed's mission?",
+        "output": "We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. Being a forum for young entrepreneurs and assisting them in launching their businesses via providing useful information that indicates an organization's ability to function as a cohesive one. Organizing entrepreneurial activities to boost the confidence of aspiring entrepreneurs."
+    },
+    {
+        "input": "what is the skillhunt about",
+        "output": "Skill Hunt, an immersive event designed to explore the forefront of innovation across four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Whether you're a seasoned professional or a curious beginner, dive into hands-on workshops, engaging discussions, and networking opportunities tailored to each cohort's unique landscape."
+    },
+    {
+        "input": "what are the bizz battle about",
+        "output": "BIZZ-BATTLE is an engaging business challenge event designed for aspiring business leaders. It consists of three rounds, each aimed at testing participants' knowledge, agility, and strategic acumen. The event begins with Round 1, a business quiz featuring questions to assess the depth of participants' knowledge. Teams that excel in this round move forward to Round 2, a thrilling treasure hunt where they must find answers to a set of riddles on campus. The most accurate teams then progress to the final round, Round 3, where they are presented with a real-world business scenario."
+    },
+    {
+        "input": "what are the stonkaholic about",
+        "output": "This incredible competition allows all the participants to experience hands-on stock trading and hone their financial literacy. Trade with virtual money as you keep an eye on the market and best the competition with your wits. ANALYZE. CAPITALISE. DEVELOP."
+    },
+    {
+        "input": "what are the upcoming events",
+        "output": "For current updates on the newer exciting events in fed, check out our Insta page at https://www.instagram.com/fedkiit/ or connect with us on LinkedIn at https://www.linkedin.com/company/fedkiit/"
+    },
+    {
+        "input": "who is the president of fed",
+        "output": "Anurag Prasoon is the president of FED."
+    },
+    {
+        "input": "who is the director of tech",
+        "output": "Prityanshu Singh"
+    },
+    {
+        "input": "hello",
+        "output": "Hi, Nice to meet you. Do you have any questions related to FED?"
+    },
+    
+    {
+        "input": "what is omega?",
+        "output": "Omega is FED's flagship event consisting of 4 different segments, focusing on the development of entrepreneurship and other skills."
+    },
+    
+    {
+        "input": "What are the rewards?",
+        "output": "We do have exciting prizes for the winners. So, be updated with all our announcements and discover what exciting things we have for you all."
+    },
+    {
+        "input": "What exactly do we have to do in pitchers?",
+        "output": "Contestants will present their ideas in front of investors and other participants. It will be the same as Shark Tank, but here, even the participants can invest in other ideas."
+    },
+    {
+        "input": "What is FPL?",
+        "output": "It is an imitation of Indian Premier League cricket auctions."
+    },
+    {
+        "input": "How is the pitchers event this year different from that of the previous editions?",
+        "output": "This time the pitchers can pitch as well as invest in other ideas."
+    },
+    {
+        "input": "How to connect with the Organising Committee from the FED website?",
+        "output": "Our website has all the info related to our members, and you can directly head to any of our members' social media accounts and connect with them. If you have any doubts, you can ask us on https://www.instagram.com/fedkiit/ and https://www.fedkiit.com/ (our official website)."
+    },
+    
+    {
+        "input": "Can the registration payment be done via the website?",
+        "output": "Participants can register from the website itself."
+    },
+    {
+        "input": "who created this bot",
+        "output": "Amaldeep Patra, senior technical executive, along with the AI team have developed this bot."
+    },
+    {
+        "input": "what are the events fed includes",
+        "output": "FED organizes many events including Omega, Skillhunt, Bizz Battle, and more."
+    },
+    {
+        "input": "thanks",
+        "output": "You're welcome!"
+    },
+    {
+        "input": "who developed the website",
+        "output": "The Tech department of FED developed this beautiful website."
+    },
+    {
+        "input": "are there any events related to omega",
+        "output": "There will be multiple events under Omega 4.0 like hackathon, FPL, etc."
+    },
+    {
+        "input": "do you have a girlfriend",
+        "output": "I'm all about helping you out, no time for dating!"
+    },
+    {
+        "input": "tell me more about it",
+        "output": "Can you please specify?"
+    },
+    {
+        "input": "What is the Google Summer of Code (GSoC) program and how does it work?",
+        "output": "The Google Summer of Code (GSoC) is an annual program that offers stipends to university students who work on open-source projects over the summer. Participants collaborate with open-source organizations, contributing to coding projects while gaining valuable experience in the software development field."
+    },
+    {
+        "input": "How can beginners choose the right organizations to work with in GSoC?",
+        "output": "Beginners should explore organizations based on their interests and expertise. Look for organizations that align with your programming skills and passion. Research each organization's project ideas, see what they offer, and select one where you feel you can contribute meaningfully."
+    },
+    {
+        "input": "What are the key factors to consider when selecting repositories to contribute to?",
+        "output": "When selecting repositories, consider your current skill level and the complexity of the project. Start with repositories labeled as 'beginner-friendly' or with simple issues that you can easily understand. Look for well-documented codebases and active communities that can help you during the contribution process."
+    },
+    {
+        "input": "How can I engage with the developer community effectively during GSoC?",
+        "output": "Engaging with the developer community involves joining forums, mailing lists, and chat channels related to your project. Actively participate in discussions, ask questions, and seek advice when necessary. Building relationships with mentors and fellow contributors will enhance your experience."
+    },
+    {
+        "input": "What makes a proposal stand out for a GSoC application?",
+        "output": "A strong GSoC proposal clearly outlines your understanding of the project, your approach to solving problems, and your goals for the summer. Be specific about timelines, milestones, and how you plan to contribute to the organization\u2019s goals. Highlight any previous relevant experience and show enthusiasm for the project."
+    },
+    {
+        "input": "What advice can a GSoC alumnus offer to new participants?",
+        "output": "A GSoC alumnus would emphasize the importance of choosing projects that match your skills and interests, being proactive in communication, and being open to feedback. They would also encourage participants to contribute regularly to the community and maintain a balance between coding and collaboration."
+    },
+    {
+        "input": "What are the common challenges participants face during GSoC and how can they be overcome?",
+        "output": "Common challenges include time management, understanding complex codebases, and navigating community dynamics. To overcome these, plan your time effectively, seek help from mentors when stuck, and engage actively in community discussions. Staying organized and consistent is key."
+    },
+    {
+        "input": "How do I make impactful contributions in GSoC?",
+        "output": "To make impactful contributions, focus on solving real problems within the project, providing valuable features or bug fixes, and enhancing the project's overall quality. Regularly communicate progress and be open to feedback from mentors and other contributors."
+    },
+    {
+        "input": "What role does community involvement play in the success of a GSoC participant?",
+        "output": "Community involvement is crucial for networking, gaining insights, and receiving feedback. Engaging with the community will help you stay motivated, understand project needs better, and collaborate effectively with others."
+    }
+]
