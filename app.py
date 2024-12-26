@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import os
 import json
 import requests
@@ -48,6 +49,7 @@ for item in new_data:
 conversation_text = "\n".join(conversation_data)
 
 app = Flask(__name__)
+CORS(app)
 
 generation_config = {
     "temperature": 1,
