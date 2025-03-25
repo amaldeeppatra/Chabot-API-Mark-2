@@ -84,7 +84,7 @@
     },
     {
         "input": "who created this bot",
-        "output": "Amaldeep Patra, senior technical executive, along with the Tech team have developed this bot."
+        "output": "Amaldeep Patra, senior technical executive, and the Tech team have developed this bot."
     },
     {
         "input": "what are the events fed includes",
@@ -111,39 +111,30 @@
         "output": "Can you please specify?"
     },
     {
-        "input": "What is the Google Summer of Code (GSoC) program and how does it work?",
-        "output": "The Google Summer of Code (GSoC) is an annual program that offers stipends to university students who work on open-source projects over the summer. Participants collaborate with open-source organizations, contributing to coding projects while gaining valuable experience in the software development field."
+        "input": "Tell me about the Pixel AI event",
+        "output":"Pixel-AI-Hack is an immersive hackathon designed to bring together designers, developers, and innovators to explore the synergy between AI, Design Thinking, and Technology. Participants will ideate and create AI-powered solutions for real-world challenges."},
+    {
+        "input": "Why should I join?",
+        "output": "Joining Pixel-AI-Hack gives you access to industry experts, design thinking workshops, real-world problem-solving challenges, and the chance to win amazing prizes."
     },
     {
-        "input": "How can beginners choose the right organizations to work with in GSoC?",
-        "output": "Beginners should explore organizations based on their interests and expertise. Look for organizations that align with your programming skills and passion. Research each organization's project ideas, see what they offer, and select one where you feel you can contribute meaningfully."
+        "input": "Who is organizing this event?",
+        "output": "The event is organized by FEDKIIT in collaboration with TBI (Technology Business Incubator) to promote AI-driven innovation and problem-solving using design thinking methodologies."
     },
     {
-        "input": "What are the key factors to consider when selecting repositories to contribute to?",
-        "output": "When selecting repositories, consider your current skill level and the complexity of the project. Start with repositories labeled as 'beginner-friendly' or with simple issues that you can easily understand. Look for well-documented codebases and active communities that can help you during the contribution process."
+        "input": "How do I register?",
+        "output": "You can register for the event here: https://www.fedkiit.com/Pixel_AI_Hack"
     },
     {
-        "input": "How can I engage with the developer community effectively during GSoC?",
-        "output": "Engaging with the developer community involves joining forums, mailing lists, and chat channels related to your project. Actively participate in discussions, ask questions, and seek advice when necessary. Building relationships with mentors and fellow contributors will enhance your experience."
+        "input": "When and where will it be held?",
+        "output": "Pixel-AI-Hack will be conducted across three days: - Day 1 (Workshops & Ideation) - Camp-17 Audi - Day 2 (Pitching Round) - Camp-14 Lab - Day 3 (Final Submission & Showcase) - Online"
     },
     {
-        "input": "What makes a proposal stand out for a GSoC application?",
-        "output": "A strong GSoC proposal clearly outlines your understanding of the project, your approach to solving problems, and your goals for the summer. Be specific about timelines, milestones, and how you plan to contribute to the organization\u2019s goals. Highlight any previous relevant experience and show enthusiasm for the project."
-    },
+        "input": "Is there a participation fee?",
+        "output": "No, participation in Pixel-AI-Hack is completely free. However, participants must register in advance to secure their spot."
+    },    
     {
-        "input": "What advice can a GSoC alumnus offer to new participants?",
-        "output": "A GSoC alumnus would emphasize the importance of choosing projects that match your skills and interests, being proactive in communication, and being open to feedback. They would also encourage participants to contribute regularly to the community and maintain a balance between coding and collaboration."
-    },
-    {
-        "input": "What are the common challenges participants face during GSoC and how can they be overcome?",
-        "output": "Common challenges include time management, understanding complex codebases, and navigating community dynamics. To overcome these, plan your time effectively, seek help from mentors when stuck, and engage actively in community discussions. Staying organized and consistent is key."
-    },
-    {
-        "input": "How do I make impactful contributions in GSoC?",
-        "output": "To make impactful contributions, focus on solving real problems within the project, providing valuable features or bug fixes, and enhancing the project's overall quality. Regularly communicate progress and be open to feedback from mentors and other contributors."
-    },
-    {
-        "input": "What role does community involvement play in the success of a GSoC participant?",
-        "output": "Community involvement is crucial for networking, gaining insights, and receiving feedback. Engaging with the community will help you stay motivated, understand project needs better, and collaborate effectively with others."
+        "input": "Where can i find more details about Pixel AI event?",
+        "output": "Stay updated through the official FEDKIIT website and social media channels. For specific queries, reach out to the organizers."
     }
 ]
