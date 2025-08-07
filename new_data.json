@@ -8,8 +8,8 @@
         "output": "We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. There is no I, only we. We exist as a team, function as a team, and execute as a team."
     },
     {
-        "input": "what is the FEDpreneur Show",
-        "output": "The FEDpreneur Show is our podcast series in which we host India's most successful entrepreneurs and strive to uncover their secrets to success, learning, and entertainment! Every conversation on The FEDpreneur Show offers intellectual, educational, and extreme learning opportunities to the audience. It's about a visionary entrepreneur session with a group of multi-talented and experienced business owners. It would aid our young brains to stand strong in marketing and startup endeavors with our podcasts at The FEDpreneur Show, where we host India's best success stories and aim to dig out their secrets to success, learning, and enjoyment!"
+        "input": "what was the FEDpreneur Show",
+        "output": "The FEDpreneur Show was our podcast series in which we hosted India's most successful entrepreneurs and strove to uncover their secrets to success, learning, and entertainment. Every conversation on The FEDpreneur Show offered intellectual, educational, and extreme learning opportunities to the audience. It was about a visionary entrepreneur session with a group of multi-talented and experienced business owners that aided our young brains to stand strong in marketing and startup endeavors."
     },
     {
         "input": "who all leads fed",
@@ -24,20 +24,20 @@
         "output": "We aim to nurture entrepreneurship through creative, authentic, and efficient techniques. Being a forum for young entrepreneurs and assisting them in launching their businesses via providing useful information that indicates an organization's ability to function as a cohesive one. Organizing entrepreneurial activities to boost the confidence of aspiring entrepreneurs."
     },
     {
-        "input": "what is the skillhunt about",
-        "output": "Skill Hunt, an immersive event designed to explore the forefront of innovation across four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Whether you're a seasoned professional or a curious beginner, dive into hands-on workshops, engaging discussions, and networking opportunities tailored to each cohort's unique landscape."
+        "input": "what was the skillhunt about",
+        "output": "Skill Hunt was an immersive event that explored the forefront of innovation across four dynamic cohorts: AI/ML, UI/UX, digital marketing, and Prompt Engineering. Participants could dive into hands-on workshops, engaging discussions, and networking opportunities tailored to each cohort's unique landscape."
     },
     {
-        "input": "what are the bizz battle about",
-        "output": "BIZZ-BATTLE is an engaging business challenge event designed for aspiring business leaders. It consists of three rounds, each aimed at testing participants' knowledge, agility, and strategic acumen. The event begins with Round 1, a business quiz featuring questions to assess the depth of participants' knowledge. Teams that excel in this round move forward to Round 2, a thrilling treasure hunt where they must find answers to a set of riddles on campus. The most accurate teams then progress to the final round, Round 3, where they are presented with a real-world business scenario."
+        "input": "what was the bizz battle about",
+        "output": "BIZZ-BATTLE was an engaging business challenge event designed for aspiring business leaders. It consisted of three rounds, each aimed at testing participants' knowledge, agility, and strategic acumen. The event began with Round 1, a business quiz, and successful teams moved to Round 2, a treasure hunt. The final round presented a real-world business scenario."
     },
     {
-        "input": "what are the stonkaholic about",
-        "output": "This incredible competition allows all the participants to experience hands-on stock trading and hone their financial literacy. Trade with virtual money as you keep an eye on the market and best the competition with your wits. ANALYZE. CAPITALISE. DEVELOP."
+        "input": "what was stonkaholic about",
+        "output": "This incredible competition allowed all the participants to experience hands-on stock trading and hone their financial literacy. Participants traded with virtual money, kept an eye on the market, and bested the competition with their wits."
     },
     {
-        "input": "what are the upcoming events",
-        "output": "For current updates on the newer exciting events in fed, check out our Insta page at https://www.instagram.com/fedkiit/ or connect with us on LinkedIn at https://www.linkedin.com/company/fedkiit/"
+        "input": "what are the past events",
+        "output": "For information on past and future events, you can check out our Insta page at https://www.instagram.com/fedkiit/ or connect with us on LinkedIn at https://www.linkedin.com/company/fedkiit/"
     },
     {
         "input": "who is the president of fed",
@@ -51,44 +51,37 @@
         "input": "hello",
         "output": "Hi, Nice to meet you. Do you have any questions related to FED?"
     },
-    
     {
-        "input": "what is omega?",
-        "output": "Omega is FED's flagship event consisting of 4 different segments, focusing on the development of entrepreneurship and other skills."
-    },
-    
-    {
-        "input": "What are the rewards?",
-        "output": "We do have exciting prizes for the winners. So, be updated with all our announcements and discover what exciting things we have for you all."
+        "input": "what was omega 4.0?",
+        "output": "Omega was FED's flagship event, which consisted of 4 different segments, focusing on the development of entrepreneurship and other skills."
     },
     {
-        "input": "What exactly do we have to do in pitchers?",
-        "output": "Contestants will present their ideas in front of investors and other participants. It will be the same as Shark Tank, but here, even the participants can invest in other ideas."
+        "input": "What were the rewards for past events?",
+        "output": "We had exciting prizes for the winners of our events."
     },
     {
-        "input": "What is FPL?",
-        "output": "It is an imitation of Indian Premier League cricket auctions."
+        "input": "What did participants have to do in pitchers?",
+        "output": "Contestants presented their ideas in front of investors and other participants. It was similar to Shark Tank, but participants could also invest in other ideas."
     },
     {
-        "input": "How is the pitchers event this year different from that of the previous editions?",
-        "output": "This time the pitchers can pitch as well as invest in other ideas."
+        "input": "What was FPL?",
+        "output": "It was an imitation of the Indian Premier League cricket auctions."
+    },
+    {
+        "input": "How was the pitchers event different from previous editions?",
+        "output": "In that edition, the pitchers could pitch as well as invest in other ideas."
     },
     {
         "input": "How to connect with the Organising Committee from the FED website?",
-        "output": "Our website has all the info related to our members, and you can directly head to any of our members' social media accounts and connect with them. If you have any doubts, you can ask us on https://www.instagram.com/fedkiit/ and https://www.fedkiit.com/ (our official website)."
-    },
-    
-    {
-        "input": "Can the registration payment be done via the website?",
-        "output": "Participants can register from the website itself."
+        "output": "Our website has all the info related to our members, and you can directly head to any of our members' social media accounts to connect with them. If you have any doubts, you can ask us on https://www.instagram.com/fedkiit/ and https://www.fedkiit.com/ (our official website)."
     },
     {
         "input": "who created this bot",
         "output": "Amaldeep Patra, senior technical executive, and the Tech team have developed this bot."
     },
     {
-        "input": "what are the events fed includes",
-        "output": "FED organizes many events including Omega, Skillhunt, Bizz Battle, and more."
+        "input": "what events did fed include",
+        "output": "FED organized many events including Omega, Skillhunt, Bizz Battle, and more."
     },
     {
         "input": "thanks",
@@ -99,8 +92,8 @@
         "output": "The Tech department of FED developed this beautiful website."
     },
     {
-        "input": "are there any events related to omega",
-        "output": "There will be multiple events under Omega 4.0 like hackathon, FPL, etc."
+        "input": "were there any events related to omega",
+        "output": "There were multiple events under Omega 4.0 like a hackathon, FPL, etc."
     },
     {
         "input": "do you have a girlfriend",
@@ -112,29 +105,89 @@
     },
     {
         "input": "Tell me about the Pixel AI event",
-        "output":"Pixel-AI-Hack is an immersive hackathon designed to bring together designers, developers, and innovators to explore the synergy between AI, Design Thinking, and Technology. Participants will ideate and create AI-powered solutions for real-world challenges."},
+        "output":"Pixel-AI-Hack was an immersive hackathon that brought together designers, developers, and innovators to explore the synergy between AI, Design Thinking, and Technology. Participants ideated and created AI-powered solutions for real-world challenges."},
     {
-        "input": "Why should I join?",
-        "output": "Joining Pixel-AI-Hack gives you access to industry experts, design thinking workshops, real-world problem-solving challenges, and the chance to win amazing prizes."
+        "input": "What were the benefits of joining Pixel-AI-Hack?",
+        "output": "Joining Pixel-AI-Hack gave participants access to industry experts, design thinking workshops, real-world problem-solving challenges, and the chance to win amazing prizes."
     },
     {
-        "input": "Who is organizing this event?",
-        "output": "The event is organized by FEDKIIT in collaboration with TBI (Technology Business Incubator) to promote AI-driven innovation and problem-solving using design thinking methodologies."
+        "input": "Who organized the Pixel AI event?",
+        "output": "The event was organized by FEDKIIT in collaboration with TBI (Technology Business Incubator) to promote AI-driven innovation and problem-solving using design thinking methodologies."
     },
     {
-        "input": "How do I register?",
-        "output": "You can register for the event here: https://www.fedkiit.com/Pixel_AI_Hack"
+        "input": "How could one register for the Pixel AI event?",
+        "output": "Registration for the event was made available through a link on the official website: https://www.fedkiit.com/Pixel_AI_Hack"
     },
     {
-        "input": "When and where will it be held?",
-        "output": "Pixel-AI-Hack will be conducted across three days: - Day 1 (Workshops & Ideation) - Camp-17 Audi - Day 2 (Pitching Round) - Camp-14 Lab - Day 3 (Final Submission & Showcase) - Online"
+        "input": "When and where was the Pixel AI event held?",
+        "output": "Pixel-AI-Hack was conducted across three days: - Day 1 (Workshops & Ideation) at Camp-17 Audi - Day 2 (Pitching Round) at Camp-14 Lab - Day 3 (Final Submission & Showcase) was held online."
     },
     {
-        "input": "Is there a participation fee?",
-        "output": "No, participation in Pixel-AI-Hack is completely free. However, participants must register in advance to secure their spot."
+        "input": "Was there a participation fee for Pixel-AI-Hack?",
+        "output": "No, participation in Pixel-AI-Hack was completely free."
     },    
     {
-        "input": "Where can i find more details about Pixel AI event?",
-        "output": "Stay updated through the official FEDKIIT website and social media channels. For specific queries, reach out to the organizers."
+        "input": "Where can I find more details about the Pixel AI event?",
+        "output": "Details about past events like Pixel-AI-Hack are archived on the official FEDKIIT website and social media channels."
+    },
+    {
+        "input": "What is Omega 5.0?",
+        "output": "OMEGA 5.0 is FED's upcoming flagship event, renowned for attracting over 500 eager students each year. It embodies our vision of promoting entrepreneurship, fostering innovation, and encouraging collaborative problem-solving among students. This year's Omega 5.0 promises to be more engaging and inspiring than ever, featuring four thrilling sub-events."
+    },
+    {
+        "input": "When is Omega 5.0?",
+        "output": "Omega 5.0 will be held on the 16th and 17th of August, 2025. The timings are from 9:00 AM to 2:00 PM and 3:00 PM to 6:00 PM."
+    },
+    {
+        "input": "What is Innovate-X?",
+        "output": "InnoVateX 2025 is a hackathon designed to empower participants with a real-world problem-solving environment. Teams will explore existing digital platforms, identify ways to improve the user experience, and foster a blend of technical creativity and entrepreneurial vision."
+    },
+    {
+        "input": "What is the Strategic Pivot Challenge?",
+        "output": "This is a thrilling 5-hour simulation where teams of 3-5 act as elite crisis consultants for a fictional company. They must craft a strategic pivot plan to navigate an unexpected turmoil, adapting to dynamic 'Stakeholder Feedback Bursts' under pressure."
+    },
+    {
+        "input": "What is FPL 3.0?",
+        "output": "FPL 3.0 is an IPL-inspired auction event where teams with a virtual budget of 75 crores bid on and draft a dream cricket squad. It's a game of strategy, teamwork, and management prowess."
+    },
+    {
+        "input": "Why should I attend Omega 5.0?",
+        "output": "Attending Omega 5.0 offers inspiration and knowledge, networking opportunities, hands-on experience, and exposure and recognition for your ideas and skills."
+    },
+    {
+        "input": "Who are the sponsors for Omega 5.0?",
+        "output": "The sponsors for Omega 5.0 are UNSTOP and UNLOX."
+    },
+    {
+        "input": "How do I register for Omega 5.0?",
+        "output": "Stay updated with our Instagram posts and the FED site. A registration link will be provided once registrations are open. You can also scan the QR code on our official Instagram account: https://www.instagram.com/fedkiit/."
+    },
+    {
+        "input": "What are the rewards for Omega 5.0?",
+        "output": "We have exciting prizes for the winners. Stay updated with all our announcements to discover what we have in store!"
+    },
+    {
+        "input": "Do all team members have to be from KIIT?",
+        "output": "No, there is no such specific condition. You are free to select your teammates from anywhere."
+    },
+    {
+        "input": "Can a single person participate in all events of Omega?",
+        "output": "Yes, contestants can participate alone or as a team, depending on the event rules."
+    },
+    {
+        "input": "Tell me about the FED Orientation.",
+        "output": "The FED Orientation 2025 is a power-packed session to kickstart your journey at KIIT. You can get inspired by real student-led start-up stories and learn how to explore the entrepreneurial ecosystem at KIIT."
+    },
+    {
+        "input": "What is the team size for Innovate-X?",
+        "output": "The team size for Innovate-X is 2-4 members and participation is free."
+    },
+    {
+        "input": "What is the team size for the Strategic Pivot Challenge?",
+        "output": "The team size for the Strategic Pivot Challenge is 3-5 members and participation is free."
+    },
+    {
+        "input": "What is the team size for FPL 3.0?",
+        "output": "The team size for FPL 3.0 is 3-5 members and participation is free."
     }
 ]
